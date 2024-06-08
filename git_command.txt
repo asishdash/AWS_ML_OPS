@@ -2,3 +2,5 @@
 git add.
 git commit
 git push
+git init
+git remote add origin <url>
