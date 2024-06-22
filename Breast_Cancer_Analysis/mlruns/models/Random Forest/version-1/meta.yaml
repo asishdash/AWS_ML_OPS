@@ -1,0 +1,13 @@
+creation_timestamp: 1719055405801
+current_stage: None
+description: null
+last_updated_timestamp: 1719055405801
+name: Random Forest
+run_id: 93bf7ccf70404c5b93884e979a77c263
+run_link: null
+source: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/93bf7ccf70404c5b93884e979a77c263/artifacts/Mean
+  Run
+status: READY
+status_message: null
+user_id: null
+version: 1

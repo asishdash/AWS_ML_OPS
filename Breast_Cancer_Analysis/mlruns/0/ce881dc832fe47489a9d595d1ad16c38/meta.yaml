@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/ce881dc832fe47489a9d595d1ad16c38/artifacts
+end_time: 1719053113760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce881dc832fe47489a9d595d1ad16c38
+run_name: marvelous-boar-855
+run_uuid: ce881dc832fe47489a9d595d1ad16c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719053113750
+status: 4
+tags: []
+user_id: asishdash

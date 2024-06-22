@@ -1,0 +1,13 @@
+creation_timestamp: 1719054768695
+current_stage: None
+description: null
+last_updated_timestamp: 1719054768695
+name: Decision Tree Classifie
+run_id: 6535f91da99340c6857e78986493beb0
+run_link: null
+source: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/6535f91da99340c6857e78986493beb0/artifacts/Mean
+  Run
+status: READY
+status_message: null
+user_id: null
+version: 1

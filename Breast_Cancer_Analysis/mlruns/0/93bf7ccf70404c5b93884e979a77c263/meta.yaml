@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/93bf7ccf70404c5b93884e979a77c263/artifacts
+end_time: 1719055405802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93bf7ccf70404c5b93884e979a77c263
+run_name: funny-steed-871
+run_uuid: 93bf7ccf70404c5b93884e979a77c263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719055404158
+status: 3
+tags: []
+user_id: asishdash

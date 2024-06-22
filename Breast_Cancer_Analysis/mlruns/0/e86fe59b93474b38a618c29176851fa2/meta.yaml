@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/e86fe59b93474b38a618c29176851fa2/artifacts
+end_time: 1719054790341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86fe59b93474b38a618c29176851fa2
+run_name: efficient-bird-691
+run_uuid: e86fe59b93474b38a618c29176851fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719054788888
+status: 3
+tags: []
+user_id: asishdash

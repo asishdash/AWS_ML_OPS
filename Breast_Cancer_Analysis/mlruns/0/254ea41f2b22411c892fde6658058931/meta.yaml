@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/254ea41f2b22411c892fde6658058931/artifacts
+end_time: 1719053381273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 254ea41f2b22411c892fde6658058931
+run_name: placid-bat-627
+run_uuid: 254ea41f2b22411c892fde6658058931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719053379686
+status: 3
+tags: []
+user_id: asishdash

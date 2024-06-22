@@ -1,0 +1,13 @@
+creation_timestamp: 1719053381271
+current_stage: None
+description: null
+last_updated_timestamp: 1719053381271
+name: Logistic Regression
+run_id: 254ea41f2b22411c892fde6658058931
+run_link: null
+source: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/254ea41f2b22411c892fde6658058931/artifacts/Mean
+  Run
+status: READY
+status_message: null
+user_id: null
+version: 1

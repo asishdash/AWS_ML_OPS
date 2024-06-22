@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/e2952002c9e74984b3a7fd16c713eb44/artifacts
+end_time: 1719055411874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2952002c9e74984b3a7fd16c713eb44
+run_name: unleashed-wolf-514
+run_uuid: e2952002c9e74984b3a7fd16c713eb44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719055410350
+status: 3
+tags: []
+user_id: asishdash

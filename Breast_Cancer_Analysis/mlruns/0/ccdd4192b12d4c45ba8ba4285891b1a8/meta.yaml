@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/ccdd4192b12d4c45ba8ba4285891b1a8/artifacts
+end_time: 1719054633269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccdd4192b12d4c45ba8ba4285891b1a8
+run_name: salty-doe-943
+run_uuid: ccdd4192b12d4c45ba8ba4285891b1a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719054631649
+status: 3
+tags: []
+user_id: asishdash

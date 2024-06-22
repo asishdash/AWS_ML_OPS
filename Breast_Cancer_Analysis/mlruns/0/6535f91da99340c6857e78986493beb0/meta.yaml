@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/6535f91da99340c6857e78986493beb0/artifacts
+end_time: 1719054768696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6535f91da99340c6857e78986493beb0
+run_name: amazing-sloth-908
+run_uuid: 6535f91da99340c6857e78986493beb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719054767122
+status: 3
+tags: []
+user_id: asishdash

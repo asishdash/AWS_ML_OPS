@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/AWS_ML_OPS/Breast_Cancer_Analysis/mlruns/0/2384fb18892b4e759da964d433251f2c/artifacts
+end_time: 1719054781403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2384fb18892b4e759da964d433251f2c
+run_name: glamorous-trout-940
+run_uuid: 2384fb18892b4e759da964d433251f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719054779920
+status: 3
+tags: []
+user_id: asishdash
