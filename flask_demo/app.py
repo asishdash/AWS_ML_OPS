@@ -1,6 +1,6 @@
 from config import DevelopmentConfig, ProductionConfig, TestingConfig
 from flask import Flask
-
+print("start")
 def create_app(config_class):
     app = {} # This would be your Flask or any other app instance in a real scenario app['config'] = config_class
     return app
